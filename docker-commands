@@ -168,5 +168,7 @@ docker network rm
 docker volume inspect db_data
 
 
+docker ps -a
+
 
 

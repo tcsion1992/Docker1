@@ -151,7 +151,9 @@ docker stack deploy -c docker-compose.yml pythonapp
 docker stack rm demo3
 
 docker inspect 
-docker  exec -it f68f8d5ec87d bash
+docker  exec -it f68f8d5ec87d bash 
+
+
 
 
 
